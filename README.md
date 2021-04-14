@@ -1,1 +1,3 @@
 # COG403-Project
+
+This project contains four files: 403 Project.ipynb, 403 Project.pdf, Chinese Lexicon Project Sze et al.csv, and xinhua.csv. 403 Project.ipynb is the jupyternotebook file the authors ran initial coding on. 403 project.pdf is the pdf version of all the python codes and outputs from 403 Project.ipynb. Chinese Lexicon Project Sze et al.csv is the original data obtained by Sze, Rickard Liow, and Yap (2014). The file contains 2,500 simplified Chinese characters, and the participants' average response time to make lexical decision for each character. Xinhua.csv is the data from the Xinhua dictionary, which contains 10,290 Chinese simplified Chinese characters and their radicals. 
